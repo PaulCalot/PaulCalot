@@ -1,4 +1,5 @@
-# Paul Calot
+# Paul Calot
+
 Curieux par nature, je m'efforce de comprendre le monde et de contribuer à son évolution, en utilisant les technologies informatiques et la science des données lorsque nécessaire. Les nouveaux outils transforment notre perception du monde, facilitant ainsi l'acquisition de connaissances et permettant de prendre des décisions plus éclairées.
 
 Configuration Linux :
