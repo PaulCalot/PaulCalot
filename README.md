@@ -1,7 +1,4 @@
 # Paul Calot
-
-e/acc
-
 Configurations Linux :
 * [ansible](https://github.com/PaulCalot/ansible)
 * [.dotfiles](https://github.com/PaulCalot/.dotfiles)
